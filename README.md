@@ -12,7 +12,6 @@
 
 ## 💡 What I Do
 - 🔭 Currently working on improving **AI-driven solutions** and developing full-stack web applications.
-- 🌱 Learning advanced **DevOps practices** and scaling AI services in production.
 - 🤝 Open to collaborations on **AI, full-stack development, and productivity tools**.
 - 💬 Ask me about **React.js**, **Java**, or building a full-stack project from scratch.
 
