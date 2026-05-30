@@ -12,8 +12,11 @@
 
 # 💡 What I Do
 🔭 Currently working on Data Analytics, Machine Learning, and AI-driven solutions.
+
 📊 Analyzing data to uncover trends, generate insights, and support decision-making.
+
 🤝 Open to collaborations on Data Science, Machine Learning, AI, and Analytics projects.
+
 💬 Ask me about Python, SQL, Machine Learning, Data Visualization, and Analytics.
 
 ---
